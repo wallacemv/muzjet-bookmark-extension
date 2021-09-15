@@ -1,7 +1,7 @@
 {
-  "name": "Muzjet Bookmark Plugin",
+  "name": "Muzjet Bookmark Extension",
   "version": "1.0",
-  "description": "Muzjet Bookmark Plugin",
+  "description": "Muzjet Bookmark Extension",
   "manifest_version": 3,
   "permissions": [
     "tabs",
